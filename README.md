@@ -1,5 +1,5 @@
 # Entornos de Desarrollo - 02 Entornos de desarrollo
-Tema 02. Entornos de desarrollo. Curso 2021/2022.
+Tema 02. Entornos de desarrollo. 1DAM. Curso 2021/2022.
 
 ![imagen](https://www.businesstrends.com.pk/wp-content/uploads/2019/03/Web-Development-Company.png)
 
@@ -7,6 +7,9 @@ Tema 02. Entornos de desarrollo. Curso 2021/2022.
 1. Entornos de desarrollo
 2. Funciones y Herramientas
 
+## Guias de instalación
+- [Software inicial](instalacion.md)
+- [Instalación y Configuración de IDE](./IDE_Javier_Garcia.pdf)
 
 
 ## Recursos
